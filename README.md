@@ -15,4 +15,4 @@
 2. Write a function named `morningReturned` that returns the string "Good Morning". 
 3. Write a function named `iLoveCode` that returns the string "I love code challenges".
 4. Write a function named `loggingTwice` that console logs the string "one" and on the next line, console logs the string "two". 
-5. Write a function named `noStep` that console logs the string "one" and returns the the string "two", then, on the next line, logs the string "step".
+5. Write a function named `noStep` that console logs the string "one" and returns the the string "two", then, after the return, logs the string "step".
