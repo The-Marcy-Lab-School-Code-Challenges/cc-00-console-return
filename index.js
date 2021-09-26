@@ -4,22 +4,22 @@ function morningLogged(){
 }
 
 //2
-function morningReturned(){
-  
-}
-
-//3
 function iLoveCode(){
   
 }
 
-//4
+//3
 function loggingTwice(){
   
 }
 
 //4
 function noStep(){
+  
+}
+
+//5
+function logAllPrime(){
   
 }
 
