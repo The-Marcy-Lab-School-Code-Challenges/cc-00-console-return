@@ -1,4 +1,4 @@
-# Code Challenge: Console Log vs Return
+# Code Challenge: Console.log vs Return
 
 ## Instructions
 
