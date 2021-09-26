@@ -14,7 +14,12 @@ function iLoveCode(){
 }
 
 //4
-function youGetOutWhatYouPutIn(){
+function loggingTwice(){
+  
+}
+
+//4
+function noStep(){
   
 }
 
