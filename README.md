@@ -12,6 +12,6 @@
 ## Code Problems
 
 1. Write a function named `morningLogged` that console logs the string "Good Morning".
-2. Write a function named `morningRetured` that returns the string "Good Morning". 
+2. Write a function named `morningReturned` that returns the string "Good Morning". 
 3. Write a function named `iLoveCode` that returns the string "I love code challenges".
 5. Write a function named `youGetOutWhatYouPutIn` that takes in a string and returns the string that was given.
