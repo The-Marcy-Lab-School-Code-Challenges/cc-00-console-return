@@ -15,4 +15,10 @@
 2. Write a function named `iLoveCode` that returns the string "I love code challenges".
 3. Write a function named `loggingTwice` that console.logs the string "one" and on the next line, console.logs the string "two". 
 4. Write a function named `noStep` that console.logs the string "one" and returns the the string "two", then, after the return, console.logs the string "step".
-5. Write a function named `logAllPrime` that takes in an integer argument, and console.logs all prime numbers starting from 1 to the given integer.
+5. Write a function named `isPrime` that takes in an integer argument, and console.logs if the integer is a prime number.
+Examples:
+```
+isPrime(17) // logs true
+isPrime(5) // logs true
+isPrime(22) // logs false
+```
