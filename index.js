@@ -19,7 +19,7 @@ function noStep(){
 }
 
 //5
-function logAllPrime(){
+function isPrime(){
   
 }
 
