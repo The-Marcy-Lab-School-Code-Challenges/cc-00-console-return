@@ -21,4 +21,5 @@ Examples:
 isPrime(17) // logs true
 isPrime(5) // logs true
 isPrime(22) // logs false
+isPrime(1) // logs false
 ```
